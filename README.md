@@ -11,3 +11,6 @@ The test suite utilizes:
 * Page Object Model
 * TestNG structure
 * Explicit wait
+
+Popup class made to monitor whether random popup window 
+is appeared and if so, close it.
